@@ -12,12 +12,28 @@
     <description><![CDATA[教育背景 学校：北京大学 学院：软件与微电子学院 专业：数字技术 导师：许捷 时间：2022.09-2025.07 主修课程：游戏引擎与游戏开发、算法基]]></description>
 </item>
 <item>
-    <title>作品集</title>
+    <title>游戏项目</title>
     <link>http://example.org/video/</link>
     <pubDate>Sat, 25 May 2024 16:24:06 &#43;0800</pubDate>
     <author>xxxx</author>
     <guid>http://example.org/video/</guid>
     <description><![CDATA[视频 Your browser does not support the video tag. 图片]]></description>
+</item>
+<item>
+    <title>科研项目</title>
+    <link>http://example.org/search/</link>
+    <pubDate>Sat, 25 May 2024 16:24:06 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://example.org/search/</guid>
+    <description><![CDATA[科研项目 国家级挑战杯入围项目——针对儿童的AR博物馆沉浸式导览 (2021.3-2023.6) 视频 项目内容 项目负责人 研究目的：探索博物馆中针对儿童的AR交互式导览系统构建]]></description>
+</item>
+<item>
+    <title>艺术项目</title>
+    <link>http://example.org/art/</link>
+    <pubDate>Sat, 25 May 2024 16:24:06 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://example.org/art/</guid>
+    <description><![CDATA[图片]]></description>
 </item>
 </channel>
 </rss>
