@@ -2,40 +2,40 @@
     <channel>
         <title>hello world</title>
         <link>http://example.org/</link>
-        <description>这是我的全新 Hugo 网站</description>
+        <description>LiZhe</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 25 May 2024 16:24:06 &#43;0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>个人简历</title>
     <link>http://example.org/first_post/</link>
     <pubDate>Sat, 25 May 2024 16:24:06 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>🍐</author>
     <guid>http://example.org/first_post/</guid>
-    <description><![CDATA[教育背景 学校：北京大学 学院：软件与微电子学院 专业：数字技术 导师：许捷 时间：2022.09-2025.07 主修课程：游戏引擎与游戏开发、算法基]]></description>
+    <description><![CDATA[北京大学研究生]]></description>
 </item>
 <item>
     <title>游戏项目</title>
     <link>http://example.org/video/</link>
     <pubDate>Sat, 25 May 2024 16:24:06 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>🌰</author>
     <guid>http://example.org/video/</guid>
-    <description><![CDATA[视频 Your browser does not support the video tag. 图片]]></description>
+    <description><![CDATA[游戏作品展示]]></description>
 </item>
 <item>
     <title>科研项目</title>
     <link>http://example.org/search/</link>
     <pubDate>Sat, 25 May 2024 16:24:06 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>🐰</author>
     <guid>http://example.org/search/</guid>
-    <description><![CDATA[科研项目 国家级挑战杯入围项目——针对儿童的AR博物馆沉浸式导览 (2021.3-2023.6) 视频 项目内容 项目负责人 研究目的：探索博物馆中针对儿童的AR交互式导览系统构建]]></description>
+    <description><![CDATA[科研项目介绍]]></description>
 </item>
 <item>
     <title>艺术项目</title>
     <link>http://example.org/art/</link>
     <pubDate>Sat, 25 May 2024 16:24:06 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>🌸</author>
     <guid>http://example.org/art/</guid>
-    <description><![CDATA[图片]]></description>
+    <description><![CDATA[爱好与特长]]></description>
 </item>
 </channel>
 </rss>

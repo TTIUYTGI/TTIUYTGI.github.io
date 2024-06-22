@@ -8,8 +8,6 @@
   Your browser does not support the video tag.
 </video>
 
-### 图片
-
 <img src="/images/page/1.png" style="width: 100%; height: auto;" alt="图片1">
 <img src="/images/page/2.png" style="width: 100%; height: auto;" alt="图片2">
 <img src="/images/page/3.png" style="width: 100%; height: auto;" alt="图片3">

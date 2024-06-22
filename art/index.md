@@ -1,7 +1,5 @@
 # 艺术项目
 
-### 图片
-
 <img src="/images/art/21.png" style="width: 100%; height: auto;" alt="图片21">
 <img src="/images/art/22.png" style="width: 100%; height: auto;" alt="图片22">
 <img src="/images/art/23.png" style="width: 100%; height: auto;" alt="图片23">
